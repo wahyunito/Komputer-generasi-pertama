@@ -1,0 +1,2 @@
+# Komputer-generasi-pertama
+Komputer adalah suatu alat elektronik yang mampu melakukan beberapa tugas sebagai berikut :      Menerima input      Memproses input sesuai dengan programnya      Menyimpan perintah-perintah dari hasil pengolahan      Menyediakan output dalam bentuk informasi    Ø William M. Fuori Komputer adalah suatu pemroses data yang dapat melakukan perhitungan besar secara tepat, termasuk perhitungan aritmatika dan operasi logika tanpa campur tangan dari manusia.
